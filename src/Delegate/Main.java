@@ -1,6 +1,8 @@
 package Delegate;
 
-
+/**
+ * First pattern
+ */
 
 public class Main {
     public static void main(String[] args) {
